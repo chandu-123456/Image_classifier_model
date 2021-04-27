@@ -1,1 +1,1 @@
-# Image_classifier_model
+Mini project
